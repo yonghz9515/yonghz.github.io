@@ -1,0 +1,29 @@
+body {
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/296/383/732/the-legend-of-zelda-link-simple-background-minimalism-wallpaper-preview.jpg");
+  color: white;
+  font-family: Arial;
+  text-shadow: -5px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(sansation_light.woff);
+}
+
+h1 {
+  color: blue
+}
+
+.myexperience {
+  text-align: right;
+  font-family: myFirstFont;
+  border-style: solid;
+}
+
+.multi-lingual {
+  color: yellow;
+}
+
+.champion:hover {
+  border-style: solid;
+}
